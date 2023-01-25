@@ -8,5 +8,3 @@ print("Directorio de trabajo:", os.getcwd())
 print(f"La fecha de hoy: {hoy}")
 print(f"Mi nombre es: David")
 print(f"Mi edad es {round(edad.days/365)}")
-
-
